@@ -21,5 +21,15 @@
             "eNumber": "E/20/367"
         }
     ],
+    "supervisors": [
+        {
+            "name": "Dr. Supervisor 1",
+            "email": "email@eng.pdn.ac.lk"
+        },
+        {
+            "name": "Supervisor 2",
+            "email": "email@eng.pdn.ac.lk"
+        }
+    ],
     "tags": []
 }
