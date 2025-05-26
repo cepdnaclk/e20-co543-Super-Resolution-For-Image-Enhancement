@@ -3,8 +3,8 @@ layout: home
 permalink: index.html
 
 # Please update this with your repository name and title
-repository-name: e20-co543-Super-Resolution For Image Enhancement
-title:Super- Resolution For Image Enhancement
+repository-name: e20-co543-Super-Resolution-For-Image-Enhancement
+title: Super Resolution For Image Enhancement
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
@@ -36,8 +36,11 @@ This is a sample image, to show how to add images to your page. To learn more op
 
 ## Introduction
 Image Super-Resolution (SR) enhances the resolution of low-quality images by reconstructing high-resolution (HR) versions. This technique is crucial in fields like medical imaging, surveillance, and satellite analysis. This project explores deep learning approaches—specifically Convolutional Neural Networks (CNNs)—to improve SR performance. We compare two strategies:
+
   1.Mean Squared Error (MSE): Focused on pixel-level accuracy.
+  
   2.Perceptual Loss: Uses a pre-trained VGG19 network to preserve high-level features and texture details.
+  
 By optimizing hyperparameters and evaluating both pixel fidelity and perceptual quality, we demonstrate how CNNs can effectively generate detailed HR images.
 
 ## Problem & Motivation
